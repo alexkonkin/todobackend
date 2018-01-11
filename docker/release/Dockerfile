@@ -1,5 +1,5 @@
 FROM alexkonkin/todobackend-base:latest
-MAINTAINER Justin Menga <alexkonkin@gmail.com>
+MAINTAINER Alex Konkin <alexkonkin@gmail.com>
 
 # Copy application artifacts
 COPY target /wheelhouse

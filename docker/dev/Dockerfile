@@ -1,5 +1,5 @@
 FROM alexkonkin/todobackend-base:latest
-MAINTAINER Justin Menga <alexkonkin@gmail.com>
+MAINTAINER Alex Konkin <alexkonkin@gmail.com>
 
 # Install dev/build dependencies
 RUN apt-get update && \

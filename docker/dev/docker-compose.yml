@@ -22,7 +22,7 @@ builder:
 
 
 agent:
-  image: jmenga/ansible
+  image: alexkonkin/ansible
   links:
     - db
   environment:
